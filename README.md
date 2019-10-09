@@ -13,7 +13,7 @@ else:
 ```
 
 
-INSTALLATION DOCUMENTATION:
+# INSTALLATION DOCUMENTATION:
 First, you must install JupyterLab onto your computer to run the files. Next you'll want to install the repository onto JupyterLab. In order to install the repository go to the terminal on your computer and type in this command:
 ```
 git clone https://github.com/ZaneZepp22/Week6_Lab.git
